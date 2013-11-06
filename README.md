@@ -5,13 +5,15 @@ This fork of the Expedia Personalized Sort Competition repo contains guidance an
 
 We'll be focused on doing this on a remote box, tailored for Rackspace's Performance Cloud Servers.
 
-### Getting setup
+## Getting setup
 
-To get up and running, install git via
+To get up and running, install git and unzip
 
 ```bash
 $ apt-get install -y git unzip
 ```
+
+then
 
 #### Clone this repository
 
