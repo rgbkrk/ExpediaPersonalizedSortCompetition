@@ -13,13 +13,13 @@ To get up and running, install git via
 $ apt-get install -y git unzip
 ```
 
-### Clone this repository
+#### Clone this repository
 
 ```bash
 $ git clone https://github.com/rgbkrk/ExpediaPersonalizedSortCompetition
 ```
 
-### Get the data
+#### Get the data
 
 Since I'm not sure what the restrictions are on the data itself, you'll need to get the zip files over yourself. This involves downloading it and transferring it or handing your cookies to wget.
 
@@ -37,7 +37,7 @@ wget --load-cookies=cookies.txt http://www.kaggle.com/c/expedia-personalized-sor
 unzip '*.zip'
 ```
 
-### Run the bootstrap script
+#### Run the bootstrap script
 
 Then run the `bootstrap.sh` script
 
@@ -45,7 +45,7 @@ Then run the `bootstrap.sh` script
 $ ./bootstrap.sh
 ```
 
-### It's all manual from here
+#### It's all manual from here
 
 You should now be in a virtualenv labeled expedia_benchmark. If not, type 
 
