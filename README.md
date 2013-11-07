@@ -3,7 +3,7 @@ Expedia Personalized Sort Competition
 
 This fork of the Expedia Personalized Sort Competition repo contains guidance and scripts for setting up the python benchmark for the  [Expedia Personalized Sort Competition](https://www.kaggle.com/c/expedia-personalized-sort), a machine learning challenged hosted by [Kaggle](https://www.kaggle.com) in conjunction with [Expedia](http://www.expedia.com/).
 
-We'll be focused on doing this on a remote box, tailored for Rackspace's Performance Cloud Servers.
+We'll be focused on doing this on a remote box, specifically to be used as another system benchmark for Rackspace's Performance Cloud Servers.
 
 ## Getting setup
 
